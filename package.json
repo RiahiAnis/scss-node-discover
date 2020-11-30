@@ -1,0 +1,22 @@
+{
+  "name": "scss-node-discover",
+  "version": "1.0.0",
+  "description": "Une envie de frais et de découverte\r Tous les jours",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiahiAnis/scss-node-discover.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RiahiAnis/scss-node-discover/issues"
+  },
+  "homepage": "https://github.com/RiahiAnis/scss-node-discover#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
